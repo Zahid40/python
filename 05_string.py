@@ -17,7 +17,7 @@ print(len(x))  # Output: 5
 names= "John, Jane, Doe"
 
 print(names[0:4])
-print(names[:4]) # default o before :
+print(names[:4]) # default 0 before :
 
 
 name="zahid"
